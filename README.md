@@ -1,2 +1,2 @@
 # Rite
-My team's submission to UofToronto's NewHacks hackathon 
+A quick ritual after every receipt.
